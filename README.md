@@ -9,3 +9,5 @@
 * Invitation to a beginner-friendly, invite-only Kaggle competition
 * Competition prizes (Kaggle Swag for top 10 teams on leaderboard)
 
+#Njoy!
+
