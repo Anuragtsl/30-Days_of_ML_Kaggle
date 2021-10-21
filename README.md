@@ -15,8 +15,8 @@
 |------|-----|--------|
 |01|Titanic-Random Forest|[Day_01_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/1-Day-Titanic-Random-Forest)|
 |02|Hello, Python|[Day_02_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/2-Day-Hello-Python)|
-|03|Function & Getting Help|[Day_03_Link]()|
-|04|Booleans and Conditionals|[Day_04_Link]()|
+|03|Function & Getting Help|[Day_03_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/3-Day-Functions-and-Getting-Help)|
+|04|Booleans and Conditionals|[Day_04_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/4-Day-Booleans-and-Conditionals)|
 |05|Lists and Loops & List Comprehensions|[Day_05_Link]()|
 |06|Strings and Dictioniaries|[Day_06_Link]()|
 |07|Working with External Libraries|[Day_07_Link]()|
