@@ -14,7 +14,7 @@
 |Day📆 |Task |Code Link 🔗|
 |------|-----|--------|
 |01|Titanic-Random Forest|[Day_01_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/1-Day-Titanic-Random-Forest)|
-|02|Hello, Python|[Day_02_Link]()|
+|02|Hello, Python|[Day_02_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/2-Day-Hello-Python)|
 |03|Function & Getting Help|[Day_03_Link]()|
 |04|Booleans and Conditionals|[Day_04_Link]()|
 |05|Lists and Loops & List Comprehensions|[Day_05_Link]()|
