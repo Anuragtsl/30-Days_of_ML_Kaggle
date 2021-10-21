@@ -17,8 +17,8 @@
 |02|Hello, Python|[Day_02_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/2-Day-Hello-Python)|
 |03|Function & Getting Help|[Day_03_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/3-Day-Functions-and-Getting-Help)|
 |04|Booleans and Conditionals|[Day_04_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/4-Day-Booleans-and-Conditionals)|
-|05|Lists and Loops & List Comprehensions|[Day_05_Link]()|
-|06|Strings and Dictioniaries|[Day_06_Link]()|
+|05|Lists and Loops & List Comprehensions|[Day_05_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/5-Day-Lists-and-Loops-and-List-Comprehensions)|
+|06|Strings and Dictioniaries|[Day_06_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/6-Day-Strings-and-Dictionaries)|
 |07|Working with External Libraries|[Day_07_Link]()|
 |08|Model-Work & Basic-Data-Exploration|[Day 08_Link]()|
 |09|First-Machine-Learning-Model-and-Model-Validation|[Day 09 Link]()|
