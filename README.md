@@ -19,8 +19,8 @@
 |04|Booleans and Conditionals|[Day_04_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/4-Day-Booleans-and-Conditionals)|
 |05|Lists and Loops & List Comprehensions|[Day_05_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/5-Day-Lists-and-Loops-and-List-Comprehensions)|
 |06|Strings and Dictioniaries|[Day_06_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/6-Day-Strings-and-Dictionaries)|
-|07|Working with External Libraries|[Day_07_Link]()|
-|08|Model-Work & Basic-Data-Exploration|[Day 08_Link]()|
+|07|Working with External Libraries|[Day_07_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/7-Day-Working-with-External-Libraries)|
+|08|Model-Work & Basic-Data-Exploration|[Day 08_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/8-Day-Model-Work%20%26%20Basic-Data-Exploration)|
 |09|First-Machine-Learning-Model-and-Model-Validation|[Day 09 Link]()|
 |10|Underfitting-and-Overfitting-&-Random-Forests|[Day 10_Link]()|
 |11|Machine-Learning-Competitions|[Day 11 Link]()|
