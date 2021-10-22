@@ -21,8 +21,8 @@
 |06|Strings and Dictioniaries|[Day_06_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/6-Day-Strings-and-Dictionaries)|
 |07|Working with External Libraries|[Day_07_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/7-Day-Working-with-External-Libraries)|
 |08|Model-Work & Basic-Data-Exploration|[Day 08_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/8-Day-Model-Work%20%26%20Basic-Data-Exploration)|
-|09|First-Machine-Learning-Model-and-Model-Validation|[Day 09 Link]()|
-|10|Underfitting-and-Overfitting-&-Random-Forests|[Day 10_Link]()|
+|09|First-Machine-Learning-Model-and-Model-Validation|[Day 09 Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/9-Day-First-Machine-Learning-Model-and-Model-Validation)|
+|10|Underfitting-and-Overfitting-&-Random-Forests|[Day 10_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/10-Day-Underfitting-and-Overfitting-%26-Random-Forests)|
 |11|Machine-Learning-Competitions|[Day 11 Link]()|
 |12|Introduction-to-Missing-values-&categorical-values|[Day 12 Link]()|
 |13|Pipelines-&-Cross-validations|[Day 13 Link]()|
