@@ -23,7 +23,7 @@
 |08|Model-Work & Basic-Data-Exploration|[Day 08_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/8-Day-Model-Work%20%26%20Basic-Data-Exploration)|
 |09|First-Machine-Learning-Model-and-Model-Validation|[Day 09 Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/9-Day-First-Machine-Learning-Model-and-Model-Validation)|
 |10|Underfitting-and-Overfitting-&-Random-Forests|[Day 10_Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/10-Day-Underfitting-and-Overfitting-%26-Random-Forests)|
-|11|Machine-Learning-Competitions|[Day 11 Link]()|
+|11|Machine-Learning-Competitions|[Day 11 Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/11-Machine-Learning-Competitions)|
 |12|Introduction-to-Missing-values-&categorical-values|[Day 12 Link]()|
 |13|Pipelines-&-Cross-validations|[Day 13 Link]()|
 |14|XGBoost-&-Data-validation|[Day 14 Link]()|
