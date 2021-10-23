@@ -28,7 +28,7 @@
 |13|Pipelines-&-Cross-validations|[Day 13 Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/13-Pipelines-%26-Cross-validations)|
 |14|XGBoost-&-Data-validation|[Day 14 Link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/14-XGBoost-%26-Data-validation)|
 |15|15 Day Kaggle Competition|[Day_15_link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/15-Day-Kaggle-Competition)|
-|16|16 Day Kaggle Competition|[Day_16_link]()|
+|16|16 Day Kaggle Competition|[Day_16_link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/16-Day-Kaggle-Competition)|
 |17|17 Day Kaggle Competition|[Day_17_link]()|
 |18|18 Day Kaggle Competition|[Day_18_link]()|
 |19|19 Day Kaggle Competition|[Day_19_link]()|
