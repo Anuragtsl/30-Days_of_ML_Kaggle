@@ -35,7 +35,7 @@
 |18|18 Day Kaggle Competition|[Day_18_link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/18-Day-Kaggle-Competition-Automobile)|
 |19|19 Day Kaggle Competition|[Day_19_link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/19-Day-Kaggle-Competition)|
 |20|20 Day Kaggle Competition|[Day_20_link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/20-Day-Kaggle-Competition)|
-|21|Final-Days-21-30 Kaggle|[Day_21_30_link]()|
+|21|Final-Days-21-30 Kaggle|[Day_21_30_link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/Final-Days-21-30)|
 
 
 #Njoy!!
