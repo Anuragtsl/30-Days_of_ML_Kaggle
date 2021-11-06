@@ -9,7 +9,7 @@
 * Invitation to a beginner-friendly, invite-only Kaggle competition
 * Competition prizes (Kaggle Swag for top 10 teams on leaderboard)
 
-![Image1](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/blob/main/ml.jpeg)
+![Image1](https://github.com
 
 ## Table of Contents
 
