@@ -38,4 +38,4 @@
 |21|Final-Days-21-30 Kaggle|[Day_21_30_link](https://github.com/Anuragtsl/30-Days_of_ML_Kaggle/tree/main/Final-Days-21-30)|
 
 
-#Njoy!!
+#Njoy!
